@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HSVMidterm</string>
+    <string name="author" translatable="false">Jacob Wagner (wagn0070)</string>
+    <string name="action_about">About</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="lime">Lime</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="silver">Silver</string>
+    <string name="gray">Gray</string>
+    <string name="maroon">Maroon</string>
+    <string name="olive">Olive</string>
+    <string name="green">Green</string>
+    <string name="purple">Purple</string>
+    <string name="teal">Teal</string>
+    <string name="navy">Navy</string>
+    <string name="hue">Hue</string>
+    <string name="saturation">Saturation</string>
+    <string name="value">Value</string>
+    <string name="hueProgress">Hue: %1d</string>
+    <string name="saturationProgress">Saturation: %1d</string>
+    <string name="valueProgress">Value: %1d</string>
+
+
+</resources>
+
+
